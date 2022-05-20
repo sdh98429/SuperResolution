@@ -18,7 +18,7 @@ Super Vision이라는 프로젝트 이름은 사전상의 의미로 대단한, �
     <td align="center"><a href="https://github.com/kimkisol"><img src="https://avatars.githubusercontent.com/u/79404348?v=4" width="100px;" alt=""/><br /><sub><b>김기솔<br>Frontend</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/sangwoo420"><img src="https://avatars.githubusercontent.com/u/31755437?v=4" width="100px;" alt=""/><br /><sub><b>박상우<br>Backend</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Sungayoung"><img src="https://avatars.githubusercontent.com/u/55776650?v=4" width="100px;" alt=""/><br /><sub><b>성아영<br>Frontend</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/sdh98429"><img src="https://avatars.githubusercontent.com/u/87460973?v=4" width="100px;" alt=""/><br /><sub><b>신동호<br>AI</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sdh98429"><img src="https://avatars.githubusercontent.com/u/87460973?v=4" width="100px;" alt=""/><br /><sub><b>신동호<br>Backend & AI</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Magpie1000"><img src="https://avatars.githubusercontent.com/u/86995167?v=4" width="100px;" alt=""/><br /><sub><b>천민우 (부팀장)<br>Frontend</b></sub></a><br /></td>
     </tr>
 
